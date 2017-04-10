@@ -1,0 +1,220 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll'
+-r:'Assets/Plugins/websocket-sharp.dll'
+-r:'Assets/UniWeb-Free/UniWeb-Free.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll'
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_5_2
+-define:UNITY_5_5
+-define:UNITY_5
+-define:UNITY_64
+-define:UNITY_ANALYTICS
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_STANDALONE_OSX
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GAMECENTER
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_VIDEO
+-define:ENABLE_VR
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+-define:UNITY_TEAM_LICENSE
+'Assets/JSON/JSONObject.cs'
+'Assets/JSON/JSONTemplates.cs'
+'Assets/JSON/VectorTemplates.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Animation.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/AnimationState.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/AnimationStateData.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Atlas.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/AtlasAttachmentLoader.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/Attachment.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/AttachmentLoader.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/AttachmentType.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/BoundingBoxAttachment.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/MeshAttachment.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/PathAttachment.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/RegionAttachment.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Attachments/VertexAttachment.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/BlendMode.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Bone.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/BoneData.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Event.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/EventData.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/ExposedList.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/IUpdatable.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/IkConstraint.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/IkConstraintData.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Json.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/MathUtils.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/PathConstraint.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/PathConstraintData.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Skeleton.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/SkeletonBinary.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/SkeletonBounds.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/SkeletonData.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/SkeletonJson.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Skin.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/Slot.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/SlotData.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/TransformConstraint.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-csharp/TransformConstraintData.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Getting Started/Scripts/BasicPlatformerController.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Getting Started/Scripts/ConstrainedCamera.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Getting Started/Scripts/Raptor.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Getting Started/Scripts/SpineBeginnerTwo.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Getting Started/Scripts/SpineBlinkPlayer.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Getting Started/Scripts/SpineboyBeginnerInput.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Getting Started/Scripts/SpineboyBeginnerModel.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Getting Started/Scripts/SpineboyBeginnerView.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Scripts/Chimera.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Scripts/FootSoldierExample.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Scripts/Goblins.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Scripts/RaggedySpineboy.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Scripts/SpineGauge.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Scripts/Spineboy.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/Examples/Scripts/SpineboyPole.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Asset Types/AtlasAsset.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Asset Types/SkeletonDataAsset.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/BoneFollower.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/ISkeletonAnimation.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/Arrays/ArraysMeshGenerator.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/Arrays/ArraysSimpleMeshGenerator.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/Arrays/ArraysSubmeshSetMeshGenerator.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/Arrays/ArraysSubmeshedMeshGenerator.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/DoubleBuffered.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/DoubleBufferedMesh.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/ISimpleMeshGenerator.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/ISubmeshedMeshGenerator.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Mesh Generation/SpineMesh.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/AtlasRegionAttacher.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/BoundingBoxFollower/BoundingBoxFollower.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/CustomMaterials/SkeletonRendererCustomMaterials.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/CustomSkin.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/Ghost/SkeletonGhost.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/Ghost/SkeletonGhostRenderer.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/Ragdoll/SkeletonRagdoll.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/Ragdoll/SkeletonRagdoll2D.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/SkeletonGraphic/SkeletonGraphic.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/SkeletonRenderSeparator/SkeletonPartsRenderer.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/SkeletonRenderSeparator/SkeletonRenderSeparator.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/SkeletonUtility Modules/SkeletonUtilityEyeConstraint.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/SkeletonUtility Modules/SkeletonUtilityGroundConstraint.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/SkeletonUtility Modules/SkeletonUtilityKinematicShadow.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/SpriteAttacher.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/TK2D/SpriteCollectionAttachmentLoader.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/YieldInstructions/WaitForSpineAnimationComplete.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/Modules/YieldInstructions/WaitForSpineEvent.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SkeletonAnimation.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SkeletonAnimator.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SkeletonExtensions.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SkeletonRenderer.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SkeletonUtility/SkeletonUtility.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SkeletonUtility/SkeletonUtilityBone.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SkeletonUtility/SkeletonUtilityConstraint.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SkeletonUtility/SkeletonUtilitySubmeshRenderer.cs'
+'Assets/Resources/2D-Characters/Spine 4 char/spine-unity/Assets/spine-unity/SpineAttributes.cs'
+'Assets/Scripts/AudioRecordingManager.cs'
+'Assets/Scripts/CollisionManager.cs'
+'Assets/Scripts/GameMechanics/AnimalHandler.cs'
+'Assets/Scripts/GameMechanics/CameraController.cs'
+'Assets/Scripts/GameMechanics/Coin.cs'
+'Assets/Scripts/GameMechanics/GameController.cs'
+'Assets/Scripts/GameMechanics/MainCharacterController.cs'
+'Assets/Scripts/GameMechanics/SceneObjectProperties.cs'
+'Assets/Scripts/GameMechanics/ScrollingBackground.cs'
+'Assets/Scripts/SingleMicrophoneCapture.cs'
+'Assets/Scripts/SpeechToTextServices/AudioFileSavingComponent.cs'
+'Assets/Scripts/SpeechToTextServices/IOUtilities.cs'
+'Assets/Scripts/SpeechToTextServices/LogFileManager.cs'
+'Assets/Scripts/SpeechToTextServices/MonoSingleton.cs'
+'Assets/Scripts/SpeechToTextServices/SavWav.cs'
+'Assets/Scripts/SpeechToTextServices/SpeechToTextComparisonWidget.cs'
+'Assets/Scripts/SpeechToTextServices/SpeechToTextResult.cs'
+'Assets/Scripts/SpeechToTextServices/SpeechToTextService.cs'
+'Assets/Scripts/SpeechToTextServices/SpeechToTextServiceWidget.cs'
+'Assets/Scripts/Utilities/Constants.cs'
+'Assets/Scripts/Utilities/LogEvent.cs'
+'Assets/Scripts/Utilities/Logger.cs'
+'Assets/Scripts/Utilities/RosbridgeUtilities.cs'
+'Assets/Scripts/Utilities/RosbridgeWebSocketClient.cs'
+'Assets/Scripts/Utilities/Utilities.cs'
+'Assets/Scripts/WordVisualization/HolderValue.cs'
+'Assets/Scripts/WordVisualization/LetterValue.cs'
+'Assets/Scripts/WordVisualization/WordVizManager.cs'
+'Assets/Scripts/gistfile1.cs'
+'Assets/UniWeb-Free/Examples/ConditionalGet.cs'
+'Assets/UniWeb-Free/Examples/ForceProxyExample.cs'
+'Assets/UniWeb-Free/Examples/KeepAliveExample.cs'
+'Assets/UniWeb-Free/Examples/RequestBenchmark.cs'
+'Assets/UniWeb-Free/Examples/UniWebExamples.cs'
+'Assets/UniWeb-Free/Examples/WebsocketClientEcho.cs'
+'Assets/UniWeb-Free/Examples/WebsocketClientExample.cs'
+'Assets/WordVizHandler.cs'
+-r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Xml.Linq.dll'
+-r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/UnityScript.dll'
+-r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/UnityScript.Lang.dll'
+-r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll'
+-sdk:unity

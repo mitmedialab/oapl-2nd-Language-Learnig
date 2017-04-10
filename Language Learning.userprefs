@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameMechanics/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameMechanics/GameController.cs" Line="345" Column="21" />
+      <File FileName="Assets/Scripts/WordVisualization/WordVizManager.cs" Line="177" Column="7" />
+      <File FileName="Assets/Scripts/Utilities/Utilities.cs" Line="226" Column="1" />
+      <File FileName="Assets/Scripts/Utilities/Constants.cs" Line="74" Column="37" />
+      <File FileName="Assets/Scripts/SpeechToTextServices/SpeechToTextServiceWidget.cs" Line="144" Column="18" />
+      <File FileName="Assets/Scripts/SpeechToTextServices/SpeechToTextService.cs" Line="295" Column="44" />
+      <File FileName="Assets/Scripts/GameMechanics/AnimalHandler.cs" Line="31" Column="6" />
+      <File FileName="Assets/Scripts/SpeechToTextServices/AudioFileSavingComponent.cs" Line="16" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

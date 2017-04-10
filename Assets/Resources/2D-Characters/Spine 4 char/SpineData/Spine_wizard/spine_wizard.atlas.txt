@@ -1,0 +1,76 @@
+
+spine_wizard.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 175, 17
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 124, 2
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 3
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: true
+  xy: 311, 6
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 394, 38
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+head_b
+  rotate: true
+  xy: 311, 121
+  size: 131, 141
+  orig: 131, 141
+  offset: 0, 0
+  index: -1
+head_f
+  rotate: false
+  xy: 2, 44
+  size: 192, 208
+  orig: 192, 208
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 62, 8
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 62, 8
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 196, 66
+  size: 113, 186
+  orig: 113, 186
+  offset: 0, 0
+  index: -1

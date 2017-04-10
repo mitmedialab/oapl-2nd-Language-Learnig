@@ -1,0 +1,69 @@
+
+spine_priest.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 420, 115
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 449, 203
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 334, 28
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: false
+  xy: 334, 173
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 334, 69
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+head_f
+  rotate: false
+  xy: 2, 2
+  size: 183, 252
+  orig: 183, 252
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 187, 2
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 187, 2
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 187, 35
+  size: 145, 219
+  orig: 145, 219
+  offset: 0, 0
+  index: -1

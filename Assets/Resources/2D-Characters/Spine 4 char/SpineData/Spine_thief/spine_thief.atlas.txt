@@ -1,0 +1,69 @@
+
+spine_thief.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 190, 122
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 152, 68
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 215, 184
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: false
+  xy: 2, 2
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 151, 180
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+head_f
+  rotate: false
+  xy: 2, 85
+  size: 147, 157
+  orig: 147, 157
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 117, 23
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 117, 23
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 151, 121
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1

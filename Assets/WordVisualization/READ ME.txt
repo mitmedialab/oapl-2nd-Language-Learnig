@@ -1,0 +1,30 @@
+﻿WHAT IS THIS?
+
+This is a simple word making game project. The goal is to make a word from scrambled letters.
+
+===========================================================================================================
+
+HOW TO USE IT?
+
+1) Open example scene "Makeword" that is included in this package.
+2) Run it. Start selecting the letters by clicking the left mouse button on them and holding it. Drag letter to some field and drop it over it. 
+3) Select game object "Word Game" in hierarchy tab. There's GameManager.cs script attach to it. Open script in your editor
+4) You can see documented code.
+
+===========================================================================================================
+
+CAN I CHANGE THE CODE?
+
+Yes, you can.
+
+===========================================================================================================
+
+WHERE CAN I USE THIS?
+
+Everywhere - free project, commercial project etc...
+
+===========================================================================================================
+
+CONTACT?
+
+tb@tomislavbali.com
